@@ -1,6 +1,6 @@
 # YouTube Clone
 
-This is a clone of YouTube - the video sharing application
+This is a clone web application of YouTube
 
 ## Badges
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
@@ -40,7 +40,10 @@ For people who want to make changes to your project, it's helpful to have some d
 You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+- [Leon Xu](https://gitlab.com/leonxu260)
+
+**API Used**
+- [RapidAPI - YouTube V3](https://rapidapi.com/ytdlfree/api/youtube-v31/)
 
 ## License
 For open source projects, say how it is licensed.
